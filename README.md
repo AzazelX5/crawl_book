@@ -8,7 +8,7 @@
 > 2.爬取
 > > python manage.py crawl [num]
 > > 
-> > num:(可选)表示要爬取的页数
+> > num:(可选)表示要爬取的页数，默认为100
 >
 > 3.环境
 > > xpath、lxml、SQLAlchemy、postgresql
